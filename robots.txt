@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohviephaef.geogalsolutions.com/sitemap.xml
